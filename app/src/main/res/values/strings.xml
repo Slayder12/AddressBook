@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">AddressBook</string>
+    <string name="title_text">Каталог пользователей</string>
+    <string name="exit_menu_text">Exit</string>
+    <string name="name_text">Имя:</string>
+    <string name="input_name_text">Введите имя</string>
+    <string name="age_text">Фамилия:</string>
+    <string name="input_age_text">Введите Фамилию</string>
+    <string name="save_text">Сохранить</string>
+    <string name="user_deleted_text">Пользователь %1$s удален</string>
+    <string name="logged_text">Вы вышли из приложения</string>
+    <string name="filled_in_text">Заполните все поля</string>
+    <string name="valid_name_text">Имя должно быть от 2 до 32 символов</string>
+    <string name="valid_last_name_text">Фамилия должно быть от 2 до 32 символов</string>
+    <string name="user_add_text">Пользователь %1$s добавлен</string>
+    <string name="input_last_name_text">Введите фамилию</string>
+    <string name="input_address_text">Введите адрес</string>
+    <string name="address_valid_text">Адрес должен быть от 3 до 100 символов</string>
+    <string name="phone_number_text">Введите номер телефона</string>
+    <string name="valid_number_text">Номер должен быть от 10 до 15 цифр</string>
+    <string name="address_text">Адресс</string>
+    <string name="address_input_text">Введите адесс</string>
+    <string name="phone_number_tv_text">Номер телефона</string>
+    <string name="user_info">Иформация адресата</string>
+    <string name="name_text_result">Имя: </string>
+    <string name="last_name_text_result">Фамилия: </string>
+    <string name="address_text_result">Адрес: </string>
+    <string name="phone_text_result">Тел.: </string>
+    <string name="input_phone_number_text">Ввдетие номер телефона</string>
+    <string name="delete_person_text">Удалить адресата?</string>
+    <string name="do_you_want_delete_person_text">Вы уверены что хотите удалить %1$s?</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="person_deleted_text">Пользователь %1$s удален</string>
+</resources>
